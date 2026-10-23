@@ -17,4 +17,4 @@ O instalador ainda não é assinado digitalmente, então o Windows pode mostrar 
 
 ## Sobre este repositório
 
-Aqui ficam apenas os instaladores e os arquivos de versão que o app consulta para se atualizar. Seus dados (logins e configurações) ficam no seu computador e não são enviados a lugar nenhum.
+Aqui ficam apenas os instaladores e os arquivos de versão que o app consulta para se atualizar. Seus logins e configurações ficam no seu computador. O app só se conecta aos jogos, ao GitHub (para checar atualizações) e, se você configurar, ao webhook do Discord para os avisos.
